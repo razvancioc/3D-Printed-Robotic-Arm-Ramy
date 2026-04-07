@@ -17,7 +17,7 @@ This repository documents the assembly, build process, and programming of a 6 De
 </p>
 
 <p align="center">
-  <b>Check the <a href="">Media</a> folder to see more photos with the fully assembled Robotic Arm.</b>
+  <b>Check the <a href="https://github.com/razvancioc/3D-Printed-Robotic-Arm-Ramy/tree/main/Media">Media</a> folder to see more photos with the fully assembled Robotic Arm.</b>
 </p>
 
 
